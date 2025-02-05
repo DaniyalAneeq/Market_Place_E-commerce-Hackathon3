@@ -1,0 +1,7 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Remarks
+TC001, Product listing Page,open product page > verify products,product listed correctly,product listed correctly,Passed,High,Works as expected
+TC002,Detailed product page,click on product > verify product display,detailed product displayed correctly,detailed product displayed correctly,Passed,High,Works as expected
+TC003,Profile management,click on signin button > verify signin ,smooth signin,signin take some time,Passed,Medium,test successful
+TC004,Cart functionality,add products in cart > check the cart items,items are added perfectly into the cart,items are added perfectly into the cart,Passed,Medium,Well handled
+TC005,Validate checkout page,go to checkout page > verify all the things,checkout page work smoothly,checkout page work smoothly,Passed,High,Works as expected
+TC006,Category listing,go to category page > verify category items,category items are well organized,category items are well organized,Passed,High,Smooth working
